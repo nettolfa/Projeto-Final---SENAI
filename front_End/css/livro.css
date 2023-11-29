@@ -1,0 +1,35 @@
+/* ----------------- Livro ------------*/
+
+table{
+    width: 100%;
+    display: table;
+    text-align: center;
+    height: 70px;
+}
+
+thead{
+    background-color: var(--secundaria-normal);
+    width: 100%;
+    margin: 0 auto;    
+    color: var(--secundaria-light-hover);
+    height: 20px;
+}
+    
+.tituloTabela{
+    color: var(--secundaria-dark);
+    margin-bottom: 30px;
+}
+
+td{
+    width: 100vh;
+    height: 100%;
+    padding: 0px 0px 25px 0px;
+    color: var(--secundaria-dark);
+    font-weight: 500;
+    font-size: 15px;
+       
+}
+
+tr {
+    width: 100%;
+}
